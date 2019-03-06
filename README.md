@@ -1,1 +1,2 @@
-# LogInsight
+## Slack Bot
+- `slack.sh`
